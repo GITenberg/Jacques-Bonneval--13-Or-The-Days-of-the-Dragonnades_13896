@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5275
     wikipedia: http://en.wikipedia.org/wiki/Anne_Manning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13896#Jacques-Bonneval--13-Or-The-Days-of-the-Dragonnades
 gutenberg_issued: '2004-10-30'
 gutenberg_type: Text
 identifiers:
